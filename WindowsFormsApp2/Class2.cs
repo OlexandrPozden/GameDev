@@ -8,5 +8,7 @@ namespace WindowsFormsApp2
 {
     class Class2
     {
+        private int n = 598734;
+
     }
 }
