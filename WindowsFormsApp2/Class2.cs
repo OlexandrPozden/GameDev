@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace WindowsFormsApp2
+{
+    class Class2
+    {
+        private int n = 598734;
+
+    }
+}
